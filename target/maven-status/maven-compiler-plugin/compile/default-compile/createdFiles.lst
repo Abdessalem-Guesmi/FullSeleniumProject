@@ -1,0 +1,13 @@
+pages\AlertPage.class
+pages\LoadingPage.class
+pages\LoginPage.class
+model\Vehicule.class
+pages\HomePage.class
+pages\SecureAreaPage.class
+model\Car.class
+pages\EmailSentPage.class
+pages\StatusCodesPage.class
+pages\ForgotPasswordPage.class
+model\Application.class
+pages\Example2LoadingPage.class
+pages\DescriptionStatusPage.class
